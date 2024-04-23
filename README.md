@@ -1,5 +1,6 @@
 # Vanilla JS Daily Plan App
 
+
 ### Used Tech and Libraries
 
 * Vanilla JS DOM Manupulation
