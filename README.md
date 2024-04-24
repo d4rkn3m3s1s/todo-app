@@ -4,6 +4,8 @@
 ### Used Tech and Libraries
 
 * Vanilla JS DOM Manupulation
+
+* 
 * Pure CSS
 * Sweet Alert
 
